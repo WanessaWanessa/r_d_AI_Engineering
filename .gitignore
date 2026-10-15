@@ -1,0 +1,6 @@
+.venv/
+.DS_Store
+*.zip
+hw1_data_update/
+dataset/data/sources/html/
+__pycache__/

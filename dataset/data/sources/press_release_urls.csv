@@ -1,0 +1,12 @@
+id,event_type,ticker,wire,url
+pr_01,earnings,SNPS,PR Newswire,https://www.prnewswire.com/news-releases/synopsys-posts-financial-results-for-third-quarter-fiscal-year-2026-302860810.html
+pr_02,guidance,IOVA,GlobeNewswire,https://www.globenewswire.com/news-release/2026/09/29/3370675/0/en/iovance-biotherapeutics-raises-full-year-2026-revenue-guidance-to-410-to-420-million.html
+pr_03,m_and_a,MG,GlobeNewswire,https://www.globenewswire.com/news-release/2026/09/18/3364639/12235/en/mistras-group-inc-enters-into-definitive-agreement-to-be-acquired-by-h-i-g-capital-for-20-35-per-share-in-cash.html
+pr_04,dividend,OKE,GlobeNewswire,https://www.globenewswire.com/news-release/2026/10/14/3381152/0/en/oneok-declares-quarterly-dividend.html
+pr_05,buyback,OLLI,GlobeNewswire,https://www.globenewswire.com/news-release/2026/10/13/3379541/36273/en/ollie-s-bargain-outlet-holdings-inc-announces-500-million-share-repurchase-authorization.html
+pr_06,offering,DKI,GlobeNewswire,https://www.globenewswire.com/news-release/2026/10/08/3377370/0/en/darkiris-inc-announces-pricing-of-6-million-public-offering.html
+pr_07,regulatory,TEVA,GlobeNewswire,https://www.globenewswire.com/news-release/2026/10/09/3378000/0/en/teva-announces-u-s-food-and-drug-administration-fda-approval-of-weltruza-olanzapine-for-extended-release-injectable-suspension-as-the-first-and-only-once-monthly-subcutaneous-injec.html
+pr_08,executive_change,MDB,PR Newswire,https://www.prnewswire.com/news-releases/mongodb-announces-ceo-transition-302891360.html
+pr_09,contract,HII,GlobeNewswire,https://www.globenewswire.com/news-release/2026/10/13/3380279/0/en/hii-is-awarded-contract-to-support-aukus-engineering-and-design-work.html
+pr_10,delisting,POM,PR Newswire,https://www.prnewswire.com/news-releases/pomdoctor-limited-announces-receipt-of-nasdaq-staff-delisting-determination-302903228.html
+pr_11,m_and_a,FOXA;ROKU,PR Newswire,https://www.prnewswire.com/news-releases/fox-corporation-to-acquire-roku-inc-302800240.html
